@@ -13,6 +13,7 @@
 ![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=for-the-badge&logo=Java&logocolor=white)
 ![CSS3](https://img.shields.io/badge/CSS-0404B4.svg?&style=for-the-badge&logo=CSS3&logocolor=white)
 ![Python](https://img.shields.io/badge/Python-ECEFF1.svg?style=for-the-badge&logo=Python&logocolor=white)
+![HTML5](https://img.shields.io/badge/HTML5-80CBC4.svg?&style=for-the-badge&logo=HTML5&logocolor=white)
   
 # TOOLS
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logocolor=white)
