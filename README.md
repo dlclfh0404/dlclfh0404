@@ -26,3 +26,5 @@
 |Highschool Algorithm Camp(하이스쿨 알고리즘 캠프)| 2023/02/11 ~ 2023/02/12|  알고리즘 강의, 알고리즘 대회| 판교 구름스퀘어|
 |Cyber Guardians(사이버 가디언즈)| 2022~2023/01| 정보보안, 해킹, 네트워크등| SungilInformationHighSchool|
 |IT,NETWORK Club(IT,네트워크 동아리)| 2022 ~ 현재| 네트워크 관련, IT관련 수업진행| SungilInformationHighSchool|
+|JAVA 초급| 2022~2022/10| JAVA기초부터 JAVA성적처리까지| SungilInformationHighSchool|
+|JAVA 중급| 2023/01~2023/02| JAVAFX활용하여 화면구현| SungilInformationHighSchool|
