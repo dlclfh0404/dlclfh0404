@@ -1,8 +1,7 @@
 <h2>LEE HWA JUN (이화준)🎐</h2>
 
-<img src='https://github-readme-stats.vercel.app/api?username=dlclfh0404&show_icons=true&customtitle='>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dlclfh0404&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact'>
-<h3 font-size: 20px>(https://github.com/dlclfh0404)</h3>
+![dlclfh0404's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlclfh0404&show_icons=true&theme=radical)
+![dlclfh0404's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dlclfh0404&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)(https://github.com/dlclfh0404)
     
 ##### MY SNS 🖼
 <a href="https://www.instagram.com/dlclfh_/">
