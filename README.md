@@ -35,3 +35,6 @@
 |IT,NETWORK Club(IT,네트워크 동아리)| 2022 ~ 현재| 네트워크 관련, IT관련 수업진행| SungilInformationHighSchool|
 |JAVA 초급| 2022~2022/10| JAVA기초부터 JAVA성적처리까지| SungilInformationHighSchool|
 |JAVA 중급| 2023/01~2023/02| JAVAFX활용하여 화면구현| SungilInformationHighSchool|
+|2023 경기도 기능경기 대회 (클라우드 컴퓨팅)| 2023/04/03~08| 클라우드 컴퓨팅 대회| SeongnamTechnoScienceHighSchool|
+
+
