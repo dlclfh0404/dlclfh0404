@@ -35,6 +35,6 @@
 |IT,NETWORK Club(IT,네트워크 동아리)| 2022 ~ 현재| 네트워크 관련, IT관련 수업진행| SungilInformationHighSchool|
 |JAVA 초급| 2022~2022/10| JAVA기초부터 JAVA성적처리까지| SungilInformationHighSchool|
 |JAVA 중급| 2023/01~2023/02| JAVAFX활용하여 화면구현| SungilInformationHighSchool|
-|2023 경기도 기능경기 대회 (클라우드 컴퓨팅)| 2023/04/03~08| 클라우드 컴퓨팅 대회| SeongnamTechnoScienceHighSchool|
+|2023 경기도 기능경기 대회 (클라우드 컴퓨팅)| 2023/04/03~08| 클라우드 컴퓨팅 대회| 한국 산업 인력 공단|
 
 ![View](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlclfh0404-0908%2Fdlclfh0404-0908%2Fhit-counter&count_bg=%23000000&title_bg=%2300CFFF&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false)
