@@ -29,7 +29,9 @@
 ### TOOLS
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logocolor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007396.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logocolor=white)
-
+![Intellij](https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=IntellijIDEA&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+  
 ### CAREER(동아리 및 활동들)
 | What | When | How | Where |
 |:--------:|:--------:|:--------:|:--------:|
