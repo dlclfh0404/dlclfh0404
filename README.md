@@ -12,6 +12,7 @@
 ![dlclfh0404's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlclfh0404&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlclfh0404)](https://github.com/dlclfh0404/github-readme-stats)
 
+
 ##### MY SNS 🖼
 <a href="https://www.instagram.com/dlclfh_/">
     <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white"/>
@@ -44,4 +45,6 @@
 |2023 경기도 기능경기 대회 (클라우드 컴퓨팅)| 2023/04/03~07| 클라우드 컴퓨팅 대회| 한국 산업 인력 공단(HRDK)|
 |Programers Club (프로그래머스 동아리)| 2023 ~ 현재 | 알고리즘 및 코딩문제 풀이| 성일정보고등학교|
 
-![view](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlclfh0404-0908%2Fdlclfh0404-0908%2Fhit-counter&count_bg=%23000000&title_bg=%2300CFFF&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false)
+<div align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlclfh0404%2F&count_bg=%23D9E4E9&title_bg=%231B191D&icon=pixabay.svg&icon_color=%23D5DBCD&title=%EB%B0%A9+%EB%AC%B8+%EC%9E%90&edge_flat=false"/></a>
+</div>
