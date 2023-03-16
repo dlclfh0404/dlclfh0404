@@ -24,6 +24,7 @@
 ![CSS3](https://img.shields.io/badge/CSS-0404B4.svg?&style=for-the-badge&logo=CSS3&logocolor=white)
 ![Python](https://img.shields.io/badge/Python-ECEFF1.svg?style=for-the-badge&logo=Python&logocolor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-80CBC4.svg?&style=for-the-badge&logo=HTML5&logocolor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-1D89B8?style=for-the-badge&logo=MySQL&logoColor=white)
   
 ### TOOLS
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logocolor=white)
