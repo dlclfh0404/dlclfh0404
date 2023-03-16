@@ -25,11 +25,12 @@
 ![Python](https://img.shields.io/badge/Python-ECEFF1.svg?style=for-the-badge&logo=Python&logocolor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-80CBC4.svg?&style=for-the-badge&logo=HTML5&logocolor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-1D89B8?style=for-the-badge&logo=MySQL&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-B846E9?style=for-the-badge&logo=PHP&logoColor=white)
   
 ### TOOLS
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logocolor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007396.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logocolor=white)
-![Intellij](https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=IntellijIDEA&logoColor=white)
+![Intellij](https://img.shields.io/badge/Intellij-F4350F?style=for-the-badge&logo=IntellijIDEA&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
   
 ### CAREER(동아리 및 활동들)
