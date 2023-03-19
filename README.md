@@ -13,27 +13,22 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlclfh0404)](https://github.com/dlclfh0404/github-readme-stats)
 
 
-##### MY SNS 🖼
+##### 𝐌𝐲 𝐒𝐍𝐒 🖼
 <a href="https://www.instagram.com/dlclfh_/">
     <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white"/>
 <a href="https://www.facebook.com/profile.php?id=100054518680488">
     <img src="https://img.shields.io/badge/Facebook-3B5998?style=flat-square&logo=Facebook&logoColor=white"/>
 </div>
     
-### 🛠 Skills 🛠
-![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=for-the-badge&logo=Java&logocolor=white)
-![CSS3](https://img.shields.io/badge/CSS-0404B4.svg?&style=for-the-badge&logo=CSS3&logocolor=white)
-![Python](https://img.shields.io/badge/Python-ECEFF1.svg?style=for-the-badge&logo=Python&logocolor=white)
-![HTML5](https://img.shields.io/badge/HTML5-80CBC4.svg?&style=for-the-badge&logo=HTML5&logocolor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-1D89B8?style=for-the-badge&logo=MySQL&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-B846E9?style=for-the-badge&logo=PHP&logoColor=white)
-![C](https://img.shields.io/badge/c-700CF0.svg?style=for-the-badge&logo=c&logoColor=white)
+### 🛠 𝑺𝒌𝒊𝒍𝒍𝒔 🛠
+|   JAVA     |    CSS3   |  Python    |    HTML5     |   MYSQL     |    PHP    |     C   |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|    
+|![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=for-the-badge&logo=Java&logocolor=white)|![CSS3](https://img.shields.io/badge/CSS-0404B4.svg?&style=for-the-badge&logo=CSS3&logocolor=white)|![Python](https://img.shields.io/badge/Python-ECEFF1.svg?style=for-the-badge&logo=Python&logocolor=white)|![HTML5](https://img.shields.io/badge/HTML5-80CBC4.svg?&style=for-the-badge&logo=HTML5&logocolor=white)|![MYSQL](https://img.shields.io/badge/MySQL-1D89B8?style=for-the-badge&logo=MySQL&logoColor=white)|![PHP](https://img.shields.io/badge/PHP-B846E9?style=for-the-badge&logo=PHP&logoColor=white)|![C](https://img.shields.io/badge/c-700CF0.svg?style=for-the-badge&logo=c&logoColor=white)|
   
-### TOOLS
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logocolor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007396.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logocolor=white)
-![Intellij](https://img.shields.io/badge/Intellij-F4350F?style=for-the-badge&logo=IntellijIDEA&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+### 𝑇𝑂𝑂𝐿𝑆
+| Eclipse  | Visual Studio Code | Intelli-J  | Notion |
+|:--------:|:--------:|:--------:|:--------:|
+|![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logocolor=white)|![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007396.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logocolor=white)|![Intellij](https://img.shields.io/badge/Intellij-F4350F?style=for-the-badge&logo=IntellijIDEA&logoColor=white)|![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
   
 ### CAREER(동아리 및 활동들)
 | What | When | How | Where |
