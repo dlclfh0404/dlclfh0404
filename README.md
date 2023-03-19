@@ -23,7 +23,7 @@
 ### 🛠 𝑺𝒌𝒊𝒍𝒍𝒔 🛠
 |   JAVA     |    CSS3   |  Python    |    HTML5     |   MYSQL     |    PHP    |     C   |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|    
-|![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=for-the-badge&logo=Java&logocolor=white)|![CSS3](https://img.shields.io/badge/CSS-0404B4.svg?&style=for-the-badge&logo=CSS3&logocolor=white)|![Python](https://img.shields.io/badge/Python-ECEFF1.svg?style=for-the-badge&logo=Python&logocolor=white)|![HTML5](https://img.shields.io/badge/HTML5-80CBC4.svg?&style=for-the-badge&logo=HTML5&logocolor=white)|![MYSQL](https://img.shields.io/badge/MySQL-1D89B8?style=for-the-badge&logo=MySQL&logoColor=white)|![PHP](https://img.shields.io/badge/PHP-B846E9?style=for-the-badge&logo=PHP&logoColor=white)|![C](https://img.shields.io/badge/c-700CF0.svg?style=for-the-badge&logo=c&logoColor=white)|
+|![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=for-the-badge&logo=Java&logocolor=white)|![CSS3](https://img.shields.io/badge/CSS-0404B4.svg?&style=for-the-badge&logo=CSS3&logocolor=white)|<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">|![HTML5](https://img.shields.io/badge/HTML5-80CBC4.svg?&style=for-the-badge&logo=HTML5&logocolor=white)|![MYSQL](https://img.shields.io/badge/MySQL-1D89B8?style=for-the-badge&logo=MySQL&logoColor=white)|![PHP](https://img.shields.io/badge/PHP-B846E9?style=for-the-badge&logo=PHP&logoColor=white)|![C](https://img.shields.io/badge/c-700CF0.svg?style=for-the-badge&logo=c&logoColor=white)|
   
 ### 𝑇𝑂𝑂𝐿𝑆
 | Eclipse  | Visual Studio Code | Intelli-J  | Notion |
