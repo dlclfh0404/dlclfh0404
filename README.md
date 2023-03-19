@@ -5,8 +5,8 @@
 
 ## 자기소개
 - 저는 Sungil Information High School에 소프트웨어 개발과를 다니고 있는 이화준 이라고 합니다.
-- 저는 python 과 java 와 html 과 css 와 등등의 언어들을 공부하고 있고 더욱 언어의 폭을 기르기 위하여 열심히 알고리즘과 코딩공부를 하고있습니다!
-- 저는 다양한 언어를 공부하여 다양한 언어가 가능한 프로그래머가 되고 싶습니다.!!
+- 저는 주로 java를 공부하고 있고 실력을 기르기 위하여 열심히 알고리즘과 코딩공부를 하고있습니다!
+- 모든 열심히 배우려는 자세로 공부하겠습니다.
 
 ## Information
 ![dlclfh0404's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlclfh0404&show_icons=true&theme=radical)
