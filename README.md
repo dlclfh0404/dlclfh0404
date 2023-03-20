@@ -33,13 +33,13 @@
 ### CAREER(동아리 및 활동들)
 | What | When | How | Where |
 |:--------:|:--------:|:--------:|:--------:|
-|Highschool Algorithm Camp(하이스쿨 알고리즘 캠프)| 2023/02/11 ~ 2023/02/12|  알고리즘 강의, 알고리즘 대회| 판교 구름스퀘어|
-|Cyber Guardians(사이버 가디언즈)| 2022~2023/01| 정보보안, 해킹, 네트워크등| 성일정보고등학교|
+|Highschool Algorithm Camp(하이스쿨 알고리즘 캠프)| 2023/02/11 ~ 2023/02/12|  알고리즘 강의, <br>알고리즘 대회| 판교 구름스퀘어|
+|Cyber Guardians(사이버 가디언즈)| 2022~2023/01| 정보보안, <br>해킹, 네트워크등| 성일정보고등학교|
 |사이버 가디언즈 컨퍼런스| 2022/11/09| 컨퍼런스 참가| 과학기술정보통신부|
-|IT,NETWORK Club(IT,네트워크 동아리)| 2022 ~ 2022| 네트워크 관련, IT관련 수업진행| 성일정보고등학교|
-|JAVA 방과후| 2022 ~ 현재 | JAVA에 모든것을 배우는중 | 성일정보고등학교|
-|2023 경기도 기능경기 대회 (클라우드 컴퓨팅)| 2023/04/03~07| 클라우드 컴퓨팅 대회| 한국 산업 인력 공단(HRDK)|
-|Programers Club (프로그래머스 동아리)| 2023 ~ 현재 | 알고리즘 및 코딩문제 풀이| 성일정보고등학교|
+|IT,NETWORK Club(IT,네트워크 동아리)| 2022 ~ 2022| 네트워크 관련, <br>IT관련 수업진행| 성일정보고등학교|
+|JAVA 방과후| 2022 ~ 현재 | JAVA에 <br>모든것을 배우는중 | 성일정보고등학교|
+|2023 경기도 기능경기 대회 (클라우드 컴퓨팅)| 2023/04/03~07| 클라우드 컴퓨팅 <br>대회| 한국 산업 인력 공단(HRDK)|
+|Programers Club (프로그래머스 동아리)| 2023 ~ 현재 | 알고리즘 및 <br>코딩문제 풀이| 성일정보고등학교|
 
 <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlclfh0404%2F&count_bg=%23D9E4E9&title_bg=%231B191D&icon=pixabay.svg&icon_color=%23D5DBCD&title=%EB%B0%A9+%EB%AC%B8+%EC%9E%90&edge_flat=false"/></a>
