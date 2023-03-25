@@ -27,7 +27,7 @@
 
     
 ### 🛠 𝑺𝒌𝒊𝒍𝒍𝒔 🛠<br>
-![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=for-the-badge&logo=Java&logocolor=white)
+![Java](https://img.shields.io/badge/Java-0B4984.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-0404B4.svg?&style=for-the-badge&logo=CSS3&logocolor=white)
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 ![HTML5](https://img.shields.io/badge/HTML5-80CBC4.svg?&style=for-the-badge&logo=HTML5&logocolor=white)
