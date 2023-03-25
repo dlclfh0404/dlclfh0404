@@ -1,7 +1,9 @@
+<div align=center>
 <h2>LEE HWA JUN (이화준)🎐</h2>
 <a href = "https://www.acmicpc.net/user/dlclfh">
     <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=dlclfh">
 </a>
+</div>
 
 ## 자기소개
 - 저는 성일정보고등학교에 소프트웨어 개발과를 다니고 있는 이화준 이라고 합니다.
@@ -10,7 +12,7 @@
 
 ## Information
 ![dlclfh0404's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlclfh0404&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlclfh0404)](https://github.com/dlclfh0404/github-readme-stats)
+![dlclfh0404's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dlclfh0404&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
 
 ##### 𝐌𝐲 𝐒𝐍𝐒 🖼
