@@ -5,32 +5,41 @@
 </a>
 </div>
 
-## 자기소개
-- 저는 성일정보고등학교에 소프트웨어 개발과를 다니고 있는 이화준 이라고 합니다.
-- 저는 주로 java를 공부하고 있고 실력을 기르기 위하여 열심히 알고리즘과 코딩공부를 하고있습니다!
-- 모든 열심히 배우려는 자세로 공부하겠습니다.
 
-## Information
+<div align=center>
+<h4> 저는 성일정보고등학교에 소프트웨어 개발과를 다니고 있는 이화준 이라고 합니다.</h4>
+<h4> 저는 주로 java를 공부하고 있고 실력을 기르기 위하여 열심히 알고리즘과 코딩공부를 하고있습니다!</h4>
+<h4> 모든 열심히 배우려는 자세로 공부하겠습니다.</h4>
+</div>
+
+
+<h1>💬 🇮 🇳 🇫 🇴 🇷 🇲 🇦 🇹 🇮 🇴 🇳 💬 </h1>
+
 ![dlclfh0404's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlclfh0404&show_icons=true&theme=radical)
 ![dlclfh0404's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dlclfh0404&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
 
 ##### 𝐌𝐲 𝐒𝐍𝐒 🖼
 <a href="https://www.instagram.com/dlclfh_/">
-    <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/dlclfh_-DD2A7B?style=flat-square&logo=Instagram&logoColor=white"/>
 <a href="https://www.facebook.com/profile.php?id=100054518680488">
-    <img src="https://img.shields.io/badge/Facebook-3B5998?style=flat-square&logo=Facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/이화준-3B5998?style=flat-square&logo=Facebook&logoColor=white"/>
 </div>
     
 ### 🛠 𝑺𝒌𝒊𝒍𝒍𝒔 🛠
-|   JAVA     |    CSS3   |  Python    |    HTML5     |   MYSQL     |    PHP    |     C   |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|    
-|![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=for-the-badge&logo=Java&logocolor=white)|![CSS3](https://img.shields.io/badge/CSS-0404B4.svg?&style=for-the-badge&logo=CSS3&logocolor=white)|<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">|![HTML5](https://img.shields.io/badge/HTML5-80CBC4.svg?&style=for-the-badge&logo=HTML5&logocolor=white)|![MYSQL](https://img.shields.io/badge/MySQL-1D89B8?style=for-the-badge&logo=MySQL&logoColor=white)|![PHP](https://img.shields.io/badge/PHP-B846E9?style=for-the-badge&logo=PHP&logoColor=white)|![C](https://img.shields.io/badge/c-700CF0.svg?style=for-the-badge&logo=c&logoColor=white)|
+![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=for-the-badge&logo=Java&logocolor=white)
+![CSS3](https://img.shields.io/badge/CSS-0404B4.svg?&style=for-the-badge&logo=CSS3&logocolor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+![HTML5](https://img.shields.io/badge/HTML5-80CBC4.svg?&style=for-the-badge&logo=HTML5&logocolor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-1D89B8?style=for-the-badge&logo=MySQL&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-B846E9?style=for-the-badge&logo=PHP&logoColor=white)
+![C](https://img.shields.io/badge/c-700CF0.svg?style=for-the-badge&logo=c&logoColor=white)
   
 ### 𝑇𝑂𝑂𝐿𝑆
-| Eclipse  | Visual Studio Code | Intelli-J  | Notion |
-|:--------:|:--------:|:--------:|:--------:|
-|![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logocolor=white)|![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007396.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logocolor=white)|![Intellij](https://img.shields.io/badge/Intellij-F4350F?style=for-the-badge&logo=IntellijIDEA&logoColor=white)|![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logocolor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007396.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logocolor=white)
+![Intellij](https://img.shields.io/badge/Intellij-F4350F?style=for-the-badge&logo=IntellijIDEA&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
   
 ### CAREER(동아리 및 활동들)
 | What | When | How | Where |
