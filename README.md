@@ -15,7 +15,8 @@
 
 <div align=center>
 <h1>💬 🇮 🇳 🇫 🇴 🇷 🇲 🇦 🇹 🇮 🇴 🇳 💬 </h1>
-
+    
+![](https://github-readme-streak-stats.herokuapp.com/?user=dlclfh0404&theme=swift&hide_border=false)
 ![dlclfh0404's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlclfh0404&show_icons=true&theme=radical)
 ![dlclfh0404's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dlclfh0404&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
