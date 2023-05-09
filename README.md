@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=timeAuto&height=120&section=header&text=Hello%20World&fontsize=90)
-<div align=center>
+![snake gif](https://github.com/dlclfh0404/dlclfh0404/blob/output/github-contribution-grid-snake.gif)
+
 <h2>LEE HWA JUN (이화준)🎐</h2>
 <a href = "https://www.acmicpc.net/user/dlclfh">
     <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=dlclfh">
@@ -56,11 +56,11 @@
 |Programers Club (프로그래머스 동아리)| 2023 ~ 현재 | 알고리즘 및 <br>코딩문제 풀이| 성일정보고등학교|
 </div>
     
-<div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=dlclfh0404&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
+    
 
-</div>
+
     
 <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlclfh0404%2F&count_bg=%23D9E4E9&title_bg=%231B191D&icon=pixabay.svg&icon_color=%23D5DBCD&title=%EB%B0%A9+%EB%AC%B8+%EC%9E%90&edge_flat=false"/></a>
