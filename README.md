@@ -10,17 +10,18 @@
 
 
 <div align=center>
-<h4> 저는 성일정보고등학교에 소프트웨어 개발과를 다니고 있는 이화준 이라고 합니다.</h4>
-<h4> 저는 주로 java를 공부하고 있고 실력을 기르기 위하여 열심히 알고리즘과 코딩공부를 하고있습니다!</h4>
-<h4> 모든 열심히 배우려는 자세로 공부하겠습니다.</h4>
+<h5> 저는 성일정보고등학교에 소프트웨어 개발과를 다니고 있는 이화준 이라고 합니다.<br>
+저는 주로 java를 공부하고 있고 실력을 기르기 위하여 열심히 알고리즘과 코딩공부를 하고있습니다!<br>
+모든 열심히 배우려는 자세로 공부하겠습니다.</h5>
 </div>
 
 <div align=center>
-<h1>💬 🇮 🇳 🇫 🇴 🇷 🇲 🇦 🇹 🇮 🇴 🇳 💬 </h1>
+    <h3>💬 정보 </h3>
     
-![](https://github-readme-streak-stats.herokuapp.com/?user=dlclfh0404&theme=swift&hide_border=false)
-![dlclfh0404's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlclfh0404&show_icons=true&theme=radical)
-![dlclfh0404's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dlclfh0404&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dlclfh0404&theme=swift&hide_border=false)<br>
+![dlclfh0404's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlclfh0404&show_icons=true&theme=radical)<br>
+![dlclfh0404's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dlclfh0404&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)<br>
+![](https://github-profile-trophy.vercel.app/?username=dlclfh0404&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
 
 
 ### 𝐌𝐲 𝐒𝐍𝐒 🖼<br>
@@ -45,7 +46,7 @@
 ![Intellij](https://img.shields.io/badge/Intellij-F4350F?style=for-the-badge&logo=IntellijIDEA&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
   
-## CAREER(동아리 및 활동들)
+#### CAREER(동아리 및 활동들)
 | What | When | How | Where |
 |:--------:|:--------:|:--------:|:--------:|
 |Highschool Algorithm Camp<br>(하이스쿨 알고리즘 캠프)| 2023/02/11 ~ 2023/02/12|  알고리즘 강의, <br>알고리즘 대회| 판교 구름스퀘어|
@@ -57,10 +58,6 @@
 |2023 경기도 기능경기 대회 (클라우드 컴퓨팅)| 2023/04/03~07| 클라우드 컴퓨팅 <br>대회| 한국 산업 인력 공단(HRDK)|
 |Programers Club (프로그래머스 동아리)| 2023 ~ 현재 | 알고리즘 및 <br>코딩문제 풀이| 성일정보고등학교|
 </div>
-    
-
-![](https://github-profile-trophy.vercel.app/?username=dlclfh0404&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
-    
 
 
     
