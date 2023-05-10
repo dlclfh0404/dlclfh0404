@@ -13,7 +13,7 @@
    <img src="https://img.shields.io/badge/dlclfh'sNotion-white?style=flat&logo=Notion&logoColor=000000">
   </a><br>
   <a href = "https://dlclfh0404.github.io">
-      <img src="https://img.shields.io/badge/dlclfh'sGithubPages-white?style=flat&logo=github&logoColor=222222">
+      <img src="https://img.shields.io/badge/dlclfh'spage-white?style=flat&logo=github&logoColor=222222">
     </a>
 </div> 
 
