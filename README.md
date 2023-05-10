@@ -1,8 +1,5 @@
 <div align="">
 
- <a href = "https://www.acmicpc.net/user/dlclfh">
-    <img align="right" src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=dlclfh">
-  </a>
 <a href = "https://solved.ac/profile/dlclfh">
     <img align="right" p-5 src="http://mazandi.herokuapp.com/api?handle=dlclfh&theme=warm">
  </a>
@@ -15,6 +12,8 @@
   <a href = "https://dlclfh0404.github.io">
       <img src="https://img.shields.io/badge/dlclfh'spage-white?style=flat&logo=github&logoColor=222222">
     </a>
+ 
+ [![Solved.ac dlclfh](http://mazassumnida.wtf/api/mini/generate_badge?boj=dlclfh)](https://solved.ac/dlclfh)
 </div> 
 
 ![snake Animation](https://github.com/dlclfh0404/dlclfh0404/blob/output/github-contribution-grid-snake.svg)
