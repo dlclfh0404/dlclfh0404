@@ -11,6 +11,6 @@
   </a>
 </div> 
 
-![snake gif](https://github.com/dlclfh0404/dlclfh0404/blob/output/github-contribution-grid-snake.gif)
+![snake Animation](https://github.com/dlclfh0404/dlclfh0404/blob/output/github-contribution-grid-snake.svg)
     
 
