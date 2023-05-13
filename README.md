@@ -22,8 +22,17 @@
 | <img src="https://img.shields.io/badge/flutter-white.svg?style=flat-square&logo=flutter&logoColor=02569B"> | <img src="https://img.shields.io/badge/html5-white.svg?style=flat-square&logo=html5&logoColor=E34F26"> | <img src="https://img.shields.io/badge/JSP-white.svg?style=flat-square&logo=openjdk&logoColor=FF0000"> | <img src="https://img.shields.io/badge/mysql-white.svg?style=flat-square&logo=mysql&logoColor=4479A1"> |  <img src="https://img.shields.io/badge/git-white.svg?style=flat-square&logo=git&logoColor=F05032"> | <img src="https://img.shields.io/badge/eclipse-white.svg?style=flat-square&logo=eclipseide&logoColor=2C2255"> | <img src="https://img.shields.io/badge/c-white.svg?style=flat-square&logo=c&logoColor=A8B9CC">
 | <img src="https://img.shields.io/badge/JAVAFX-white.svg?style=flat-square&logo=openjdk&logoColor=FF0000"> | | | | | <img src="https://img.shields.io/badge/intellij-white.svg?style=flat-square&logo=intellijidea&logoColor=000000"> | <img src="https://img.shields.io/badge/c++-white.svg?style=flat-square&logo=cplusplus&logoColor=00599C">
 
-   
-   
+### Career   
+🛠️ 2023 지방 기능 경기 대회 (클라우드 컴퓨팅) : 2023/04/03 ~ 05<br>
+🛠️ 하이스쿨 알고리즘 캠프 : 2023/01/30 ~ 02/12<br>
+🛠️ 프로그래머스 : 2023/03 ~ 현재 <br>
+🛠️ IT 네트워크 : 2022 ~ 2023 <br>
+🛠️ SSS 스터디 (알고리즘 분야) : 2023 ~ 현재 <br>
+🛠️ freaky bug 스터디 : 2023 ~ 현재 <br>
+🛠️ 2022 사이버 가디언즈 수료 및 컨퍼런스 참여 : 2022 <br>
+🛠️ JAVA 방과후 : 2022 ~ 현재 <br>
+🛠️ 앱 개발 방과후 : 2023 ~ 현재 <br>
+
    
 ## 알고리즘 문제풀이
 ![dlclfh's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dlclfh)
