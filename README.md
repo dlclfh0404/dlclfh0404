@@ -8,7 +8,6 @@
     
 ## dlclfh
    
- ### dlclfh's skills
  | Application | front | back | sql | etc | tool |
  | :----------- | :-------- | :------- | :--------- | :-------- | :------|
  | <img src="https://img.shields.io/badge/dart-white.svg?style=flat-square&logo=dart&logoColor=0175C2"> | <img src="https://img.shields.io/badge/CSS3-white.svg?style=flat-square&logo=CSS3&logoColor=1572B6"> | <img src="https://img.shields.io/badge/Java-white.svg?style=flat-square&logo=openjdk&logoColor=FF0000"> | <img src="https://img.shields.io/badge/Oracle-white.svg?style=flat-square&logo=oracle&logoColor=F80000"> |  <a href = "https://dlclfh.notion.site/dlclfh_-3e0a811ebad54cac917c260589321d30"><img src="https://img.shields.io/badge/Notion-white.svg?style=flat-square&logo=notion&logoColor=000000"></a> | <img src="https://img.shields.io/badge/vscode-white.svg?style=flat-square&logo=visualstudiocode&logoColor=007ACC"> |
