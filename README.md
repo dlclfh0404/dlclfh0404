@@ -23,6 +23,7 @@
 | <img src="https://img.shields.io/badge/JAVAFX-white.svg?style=flat-square&logo=openjdk&logoColor=FF0000"> | | | | | <img src="https://img.shields.io/badge/intellij-white.svg?style=flat-square&logo=intellijidea&logoColor=000000"> | <img src="https://img.shields.io/badge/c++-white.svg?style=flat-square&logo=cplusplus&logoColor=00599C">
 
 ### Career   
+🛠️ 2022 취업준비생 IOT 역량강화 프로젝트 : 2022/09/13 ~ 26<br>
 🛠️ 2023 지방 기능 경기 대회 (클라우드 컴퓨팅) : 2023/04/03 ~ 05<br>
 🛠️ 하이스쿨 알고리즘 캠프 : 2023/01/30 ~ 02/12<br>
 🛠️ 프로그래머스 : 2023/03 ~ 현재 <br>
