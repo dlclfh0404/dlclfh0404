@@ -36,7 +36,6 @@
 - [Baekjoon Online Judge](https://www.acmicpc.net/user/dlclfh)
 - [solved.ac](https://solved.ac/profile/dlclfh)
    
-</div>
 
 ![snake Animation ](https://github.com/dlclfh0404/dlclfh0404/blob/output/github-contribution-grid-snake.svg)
 
