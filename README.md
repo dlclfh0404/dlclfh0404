@@ -10,7 +10,7 @@
 <a href = "https://dlclfh.notion.site/6819d439f35d40ccb5ec5c11dabbd4e2?pvs=4"> <img src="https://img.shields.io/badge/나의 공부일지 -white.svg?style=flat&logo=notion&logoColor=000000"> 
 </a> 
 <a href = "https://velog.io/@dlclfh0404">
-   <img src="https://img.shields.io/badge/나의 벨로그사이트 -white.svg?style=flat&logo=velog&logoColor=#20C997">
+   <img src="https://img.shields.io/badge/나의 벨로그 -white.svg?style=flat&logo=velog&logoColor=#20C997">
 </a>
 <a href = "https://dlclfh0404.github.io">
    <img src="https://img.shields.io/badge/나의 깃허브사이트 -white.svg?style=flat&logo=git&logoColor=F05032">
