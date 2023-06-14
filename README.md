@@ -1,7 +1,7 @@
 ## dlclfh
 
 #### 저는 성일정보고등학교 소프트웨어개발과에 재학중인 이화준입니다.<br>
-#### 저는 현재 JAVA와 C언어를 중점으로 공부하고있습니다.<br>
+#### 저는 현재 JAVA와 C언어를 중점으로 공부하고있습니다.<br> 
 #### 저는 진정한 개발자가 되기 위하여 노력하겠습니다 
  
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlclfh0404%2F&count_bg=%23D9E4E9&title_bg=%231B191D&icon=pixabay.svg&icon_color=%23D5DBCD&title=%EB%B0%A9+%EB%AC%B8+%EC%9E%90&edge_flat=false"/></a><br> 
