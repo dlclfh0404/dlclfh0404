@@ -36,7 +36,7 @@
 🛠️ 2022 사이버 가디언즈 수료 및 컨퍼런스 참여 : 2022 <br>
 🛠️ JAVA 방과후 : 2022 ~ 현재 <br>
 🛠️ 앱 개발 방과후 : 2023 ~ 현재 <br>
-
+🛠️ 웹 디자인 기능반 : 2023 ~ 현재 <br>
    
 ## 알고리즘 문제풀이
 ![dlclfh's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dlclfh)
