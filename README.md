@@ -38,6 +38,7 @@
 🛠️ JAVA 방과후 : 2022 ~ 현재 <br>
 🛠️ 앱 개발 방과후 : 2023 ~ 현재 <br>
 🛠️ 웹 디자인 기능반 : 2023 ~ 현재 <br>
+🛠️ 2023 용인대학교 SW-AI Dodream 방학 캠프 : 2022 <br>
    
 ## 알고리즘 문제풀이
 ![dlclfh's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dlclfh)
