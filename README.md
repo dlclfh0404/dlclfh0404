@@ -7,9 +7,7 @@
 #### 저는 성실한 개발자가 되기 위하여 노력하겠습니다 
  
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlclfh0404%2F&count_bg=%23D9E4E9&title_bg=%231B191D&icon=pixabay.svg&icon_color=%23D5DBCD&title=%EB%B0%A9+%EB%AC%B8+%EC%9E%90&edge_flat=false"/></a><br> 
-<a href = "https://dlclfh.notion.site/dlclfh_-3e0a811ebad54cac917c260589321d30"> <img src="https://img.shields.io/badge/나의 노션 -white.svg?style=flat&logo=notion&logoColor=000000"> 
-</a> 
-<a href = "https://dlclfh.notion.site/6819d439f35d40ccb5ec5c11dabbd4e2?pvs=4"> <img src="https://img.shields.io/badge/나의 공부일지 -white.svg?style=flat&logo=notion&logoColor=000000"> 
+<a href = "https://dlclfh.notion.site/DLCLFH-PROFILE-113ab60c1049448dbd99cccf4ff90d16?pvs=4"> <img src="https://img.shields.io/badge/나의 노션 -white.svg?style=flat&logo=notion&logoColor=000000"> 
 </a> 
 <a href = "https://velog.io/@dlclfh0404">
    <img src="https://img.shields.io/badge/나의 벨로그 -white.svg?style=flat&logo=velog&logoColor=#20C997">
