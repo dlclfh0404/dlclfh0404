@@ -12,6 +12,10 @@
 <a href = "https://velog.io/@dlclfh0404">
    <img src="https://img.shields.io/badge/나의 벨로그 -white.svg?style=flat&logo=velog&logoColor=#20C997">
 </a>
+<a href="mailto:dlclfh0404@naver.com">
+  <img src="https://img.shields.io/badge/메일 -white.svg?style=flat&logo=naver&logoColor=#03C75A">
+</a>
+
    
 #### My skills
  | Application | front | back | sql | etc | tool | other |
