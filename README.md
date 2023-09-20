@@ -16,6 +16,13 @@
   <img src="https://img.shields.io/badge/메일 -white.svg?style=flat&logo=naver&logoColor=#03C75A">
 </a>
 
+<div>
+
+ ![dlclfh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlclfh0404&show_icons=true&theme=white)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlclfh0404&layout=compact)](https://github.com/dlclfh0404/github-readme-stats)
+ 
+</div>
+
    
 #### My skills
  | Application | front | back | sql | etc | tool | other |
