@@ -34,7 +34,7 @@
 | 2023 용인대학교 SW-AI Dodream 방학 캠프 | 용인대학교 | 2023
 | 웹 해킹 방과후 | 웹 모의해킹, CTF 문제풀이, C언어 | 2022/07
  
-#### My skills
+### My skills
  | Application | front | back | sql | etc | tool | other |
  | :----------- | :-------- | :------- | :--------- | :-------- | :------| :------ |
  | <img src="https://img.shields.io/badge/dart-white.svg?style=flat-square&logo=dart&logoColor=0175C2"> | <img src="https://img.shields.io/badge/CSS3-white.svg?style=flat-square&logo=CSS3&logoColor=1572B6"> | <img src="https://img.shields.io/badge/Java-white.svg?style=flat-square&logo=openjdk&logoColor=FF0000"> | <img src="https://img.shields.io/badge/Oracle-white.svg?style=flat-square&logo=oracle&logoColor=F80000"> |  <img src="https://img.shields.io/badge/Notion-white.svg?style=flat-square&logo=notion&logoColor=000000"> | <img src="https://img.shields.io/badge/vscode-white.svg?style=flat-square&logo=visualstudiocode&logoColor=007ACC"> | <img src="https://img.shields.io/badge/Python-white.svg?style=flat-square&logo=python&logoColor=3776AB">
