@@ -18,8 +18,7 @@
 
 <div>
 
- ![dlclfh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlclfh0404&show_icons=true&theme=white)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlclfh0404&layout=compact)](https://github.com/dlclfh0404/github-readme-stats)
+
  
 </div>
 
@@ -50,11 +49,13 @@
 | 2023 용인대학교 SW-AI Dodream 방학 캠프 | 용인대학교 | 2023
 | 웹 해킹 방과후 | 웹 모의해킹, CTF 문제풀이, C언어 | 2022/07
    
-## 알고리즘 문제풀이
+## Status
 ![dlclfh's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dlclfh)
 - [Baekjoon Online Judge](https://www.acmicpc.net/user/dlclfh)
 - [solved.ac](https://solved.ac/profile/dlclfh)
-   
+
+ ![dlclfh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlclfh0404&show_icons=true&theme=white)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlclfh0404&layout=compact)](https://github.com/dlclfh0404/github-readme-stats)
 
 
    
