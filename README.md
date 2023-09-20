@@ -25,7 +25,7 @@
 | <img src="https://img.shields.io/badge/JAVAFX-white.svg?style=flat-square&logo=openjdk&logoColor=FF0000"> |<img src="https://img.shields.io/badge/JS-white.svg?style=flat-square&logo=javascript&logoColor=F7DF1E"> |<img src="https://img.shields.io/badge/AWS-white.svg?style=flat-square&logo=amazonaws&logoColor=232F3E"> | | | <img src="https://img.shields.io/badge/intellij-white.svg?style=flat-square&logo=intellijidea&logoColor=000000"> | <img src="https://img.shields.io/badge/c++-white.svg?style=flat-square&logo=cplusplus&logoColor=00599C">
 |||<img src="https://img.shields.io/badge/php-white.svg?style=flat-square&logo=php&logoColor=777BB4">||||<img src="https://img.shields.io/badge/arduino-white.svg?style=flat-square&logo=arduino&logoColor=00878F">
 
-### Career
+### 🛠 Career
 | What | Contents | When |
 | :----------: | :-------------: | :-------------: |
 | 2022 취업준비생 IOT 역량강화 프로젝트 | Arduino와 Blynk를 사용한 IOT프로젝트<br> 취업역량 강화 | 2022/09/13 ~ 26
