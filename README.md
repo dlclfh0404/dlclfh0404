@@ -25,19 +25,23 @@
 | <img src="https://img.shields.io/badge/JAVAFX-white.svg?style=flat-square&logo=openjdk&logoColor=FF0000"> |<img src="https://img.shields.io/badge/JS-white.svg?style=flat-square&logo=javascript&logoColor=F7DF1E"> |<img src="https://img.shields.io/badge/AWS-white.svg?style=flat-square&logo=amazonaws&logoColor=232F3E"> | | | <img src="https://img.shields.io/badge/intellij-white.svg?style=flat-square&logo=intellijidea&logoColor=000000"> | <img src="https://img.shields.io/badge/c++-white.svg?style=flat-square&logo=cplusplus&logoColor=00599C">
 |||<img src="https://img.shields.io/badge/php-white.svg?style=flat-square&logo=php&logoColor=777BB4">||||<img src="https://img.shields.io/badge/arduino-white.svg?style=flat-square&logo=arduino&logoColor=00878F">
 
-### Career   
-🛠️ 2022 취업준비생 IOT 역량강화 프로젝트 : 2022/09/13 ~ 26<br>
-🛠️ 2023 지방 기능 경기 대회 (클라우드 컴퓨팅) : 2023/04/03 ~ 05<br>
-🛠️ 하이스쿨 알고리즘 캠프 : 2023/01/30 ~ 02/12<br>
-🛠️ 프로그래머스 : 2023/03 ~ 현재 <br>
-🛠️ IT 네트워크 : 2022 ~ 2023 <br>
-🛠️ SSS 스터디 (알고리즘 분야) : 2023 ~ 현재 <br>
-🛠️ freaky bug 스터디 : 2023 ~ 현재 <br>
-🛠️ 2022 사이버 가디언즈 수료 및 컨퍼런스 참여 : 2022 <br>
-🛠️ JAVA 방과후 : 2022 ~ 현재 <br>
-🛠️ 앱 개발 방과후 : 2023 ~ 현재 <br>
-🛠️ 웹 디자인 기능반 : 2023 ~ 현재 <br>
-🛠️ 2023 용인대학교 SW-AI Dodream 방학 캠프 : 2023 <br>
+### Career
+| What | Contents | When |
+| :----------: | :-------------: | :-------------: |
+| 2022 취업준비생 IOT 역량강화 프로젝트 | Arduino와 Blynk를 사용한 IOT프로젝트<br> 취업역량 강화 | 2022/09/13 ~ 26
+| 2023 지방 기능 경기 대회 (클라우드 컴퓨팅) | AWS 지방 기능경기대회 | 2023/04/03 ~ 05
+| 하이스쿨 알고리즘 캠프 | 구름, 카카오, 교육부, 한국과학창의재단 | 2023/01/30 ~ 02/12
+| 프로그래머스 | 알고리즘 문제 풀이 및 해석  | 2023/03 ~ 현재
+| IT 네트워크 | 네트워크 구축 및 컴퓨터 구조 이해  | 2022 ~ 2023
+| 사이버 가디언즈 | C언어 & 리눅스 명령어 & CTF | 2022
+| SSS 스터디 | 알고리즘 멘티| 2023 ~ 현재
+| freaky bug 스터디 | 친구들과 함께 JAVA 공부 | 2023
+| 2022 사이버 가디언즈 수료 및 컨퍼런스 참여 | 과학기술정보통신부,한국정보기술연구원 | 2022 
+| JAVA 방과후 | 초급 & 중급 & 고급 | 2022 ~ 현재 
+| 앱 개발 방과후 | 초급 & 중급 | 2023
+| 웹 디자인 기능반 | 웹디자인기능사 자격증 및<br> 웹디자인기능경기대회 준비 | 2023 ~ 현재 
+| 2023 용인대학교 SW-AI Dodream 방학 캠프 | 용인대학교 | 2023
+| 웹 해킹 방과후 | 웹 모의해킹, CTF 문제풀이, C언어 | 2022/07
    
 ## 알고리즘 문제풀이
 ![dlclfh's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dlclfh)
