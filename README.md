@@ -1,10 +1,10 @@
 ## ABOUT ME 
 
-#### 👨‍💻 DEVELOPER
+### 👨‍💻 DEVELOPER
 
- 👨‍🎓 성일정보고등학교 <b> in 소프트웨어개발과 재학중</b><br><br>
- 🧩 배움을 두려워하지 않고 성장을 즐기는 개발자<br><br>
- 🔧 열심히 노력하는 성실한 개발자 <b>이화준</b>이 되겠습니다.<br>
+ <p>👨‍🎓 성일정보고등학교 <strong> in 소프트웨어개발과 재학중</strong></p>
+ <p>🧩 배움을 두려워하지 않고 성장을 즐기는 개발자</p>
+ <p>🔧 열심히 노력하는 성실한 개발자 <strong>이화준</strong>이 되겠습니다.</p>
 
 <div>
 <a href = "https://dlclfh.notion.site/DLCLFH-PROFILE-113ab60c1049448dbd99cccf4ff90d16?pvs=4"> <img src="https://img.shields.io/badge/나의 노션 -white.svg?style=flat&logo=notion&logoColor=000000"> 
@@ -18,7 +18,7 @@
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlclfh0404&layout=donut)](https://github.com/dlclfh0404/github-readme-stats)
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlclfh0404&layout=donut" />
 
 
 ###  ⚙ Stack 
